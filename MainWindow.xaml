@@ -52,8 +52,7 @@
                                 <GridViewColumn Header="Количество" Width="130" DisplayMemberBinding="{Binding Count}" />
                             </GridView>
                         </ListView.View>
-                    </ListView>
-
+                    </ListView>=
                 </Grid>
             </TabItem>
 
