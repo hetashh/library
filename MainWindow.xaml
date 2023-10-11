@@ -54,7 +54,6 @@
                         </ListView.View>
                     </ListView>
 
-                    <!-- Поле поиска книги -->
                 </Grid>
             </TabItem>
 
